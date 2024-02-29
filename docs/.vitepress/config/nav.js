@@ -1,16 +1,16 @@
-module.exports = [
+export default [
   {
     text: '🍇 社区',
     items: [
       {
         text: '编程',
-        link: '/frontend/html/',
-        activeMatch: '/frontend/html/',
+        link: '/community/program/',
+        activeMatch: '/community/program/',
       },
       {
         text: 'AI',
-        link: '/frontend/vue/',
-        activeMatch: '/frontend/vue/',
+        link: '/community/ai',
+        activeMatch: '/community/ai',
       },
       {
         text: '剪辑',

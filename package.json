@@ -1,7 +1,9 @@
 {
   "name": "hpw-vitepress-community",
+  "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "基于 VitePress 打造个人前端导航网站",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
@@ -12,10 +14,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "vitepress": "^1.0.0-rc.44"
-  },
   "devDependencies": {
-    "sass": "^1.71.1"
+    "sass": "^1.71.1",
+    "vite-plugin-markdown-preview": "^1.1.1",
+    "vitepress": "^1.0.0-rc.44",
+    "vue": "^3.4.21"
   }
 }
