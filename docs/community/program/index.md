@@ -1,3 +1,8 @@
+---
+layout: doc
+outline: 2
+---
+
 <script setup>
 // 引入组件
 // import MNavLinks from '../components/MNavLinks.vue'
