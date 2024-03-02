@@ -1,19 +1,20 @@
+// 基于 vite/vitepress 的 markdown 代码块预览插件：https://www.npmjs.com/package/vite-plugin-markdown-preview
+import MarkdownPreview from 'vite-plugin-markdown-preview'
 // const head = require('./config/head')
 // const nav = require('./config/nav')
 import { defineConfig } from 'vitepress'
+
 import head from './config/head'
 import nav from './config/nav'
-// 基于 vite/vitepress 的 markdown 代码块预览插件：https://www.npmjs.com/package/vite-plugin-markdown-preview
-import MarkdownPreview from 'vite-plugin-markdown-preview'
-
 import socialLinks from './config/socialLinks'
+
 // const socialLinks = require('./config/socialLinks')
 
 export default defineConfig({
   base: process.env.NODE_ENV === 'production' ? '/hpw-vitepress-community/' : '/',
 
   lang: 'zh-CN',
-  title: 'HuangPWの社区',
+  title: 'HUANGPWの社区',
   description: 'HPW茂茂的成长之路，包含前端常用知识、源码阅读笔记、各种奇淫技巧、日常提效工具等，书山有路勤为径，学海无涯苦作舟。',
   head,
   themeConfig: {

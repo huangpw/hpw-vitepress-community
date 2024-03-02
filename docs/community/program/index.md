@@ -10,6 +10,6 @@ outline: 2
 import { NAV_DATA } from './data'
 </script>
 
-# HTML&CSS
+# 编程社区
 
 <NavCard v-for="{title, items} in NAV_DATA" :title="title" :items="items" />

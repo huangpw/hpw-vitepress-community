@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: HuangPWの社区
+  name: HUANGPWの社区
   text: 'While there is life there is hope.'
   tagline: 知识是进步的阶梯，聚少成多，滴水成河，争取每天都有知识点更新。
   image:
@@ -31,50 +31,50 @@ features:
     link: https://vitejs.cn/
     linkText: View
   - icon:
-      dark: /community/移动端.png
-      light: /community/移动端.png
+      dark: /community/mobile.png
+      light: /community/mobile.png
     title: 移动端
     details: Webapp、MUI、Uniapp、Vue、React、Angular、Harmony、Kotlin、Swift、小程序等。
     link: https://vitejs.cn/
     linkText: View
   - icon:
-      dark: /community/后端.png
-      light: /community/后端.png
+      dark: /community/backend.png
+      light: /community/backend.png
     title: 后端
     details: Java、PHP、ASP.NET、Golang、Python、C++、Ruby等。
     link: https://vitejs.cn/
     linkText: View
   - icon:
-      dark: /community/数据库端.png
-      light: /community/数据库端.png
+      dark: /community/sql.png
+      light: /community/sql.png
     title: 数据库端
     details: MongoDB、MySQL、Oracle、Redis、SQL Server、IndexedDB、PostgreSQL等。
     link: https://vitejs.cn/
     linkText: View
   - icon:
-      dark: /community/服务端.png
-      light: /community/服务端.png
+      dark: /community/service.png
+      light: /community/service.png
     title: 服务端
     details: Git、Frp内网穿透、Apache、Nginx、SVN、Docker、云服务器、Windows Server、Linux等。
     link: https://vitejs.cn/
     linkText: View
   - icon:
-      dark: /community/软件端.png
-      light: /community/软件端.png
+      dark: /community/software.png
+      light: /community/software.png
     title: 软件端
     details: Windows、Mac、Android、Apple、Linux、Harmony、常用插件等。
     link: https://vitejs.cn/
     linkText: View
   - icon:
-      dark: /community/素材端.png
-      light: /community/素材端.png
+      dark: /community/material.png
+      light: /community/material.png
     title: 素材端
     details: 图标、图库、配色、字体、设计、网盘搜索、文案大全、聚合搜索、资源分享、磁力搜索、趣闻、二维码、格式转换等。
     link: https://vitejs.cn/
     linkText: View
   - icon:
-      dark: /community/办公教育端.png
-      light: /community/办公教育端.png
+      dark: /community/office.png
+      light: /community/office.png
     title: 办公教育端
     details: PPT资源、PDF转换、思维导图、学习考试、在线文档、范文合同、在线网盘、简历、词典等。
     link: https://vitejs.cn/
