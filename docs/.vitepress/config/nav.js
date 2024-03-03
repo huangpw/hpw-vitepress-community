@@ -8,9 +8,9 @@ export default [
         activeMatch: '/community/program/',
       },
       {
-        text: 'AI',
-        link: '/community/ai',
-        activeMatch: '/community/ai',
+        text: '智能AI',
+        link: '/community/ai/',
+        activeMatch: '/community/ai/',
       },
       {
         text: '剪辑',
