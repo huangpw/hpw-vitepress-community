@@ -34,8 +34,8 @@ export default [
       },
       {
         text: '娱乐',
-        link: '/frontend/electron/',
-        activeMatch: '/frontend/electron/',
+        link: '/community/recreation/',
+        activeMatch: '/community/recreation/',
       },
     ],
   },
