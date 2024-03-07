@@ -24,13 +24,18 @@ export default [
       },
       {
         text: '设计',
-        link: '/frontend/electron/',
-        activeMatch: '/frontend/electron/',
+        link: '/community/design/',
+        activeMatch: '/community/design/',
       },
       {
         text: '科普',
-        link: '/frontend/electron/',
-        activeMatch: '/frontend/electron/',
+        link: '/community/popular/',
+        activeMatch: '/community/popular/',
+      },
+      {
+        text: '生活',
+        link: '/community/life/',
+        activeMatch: '/community/life/',
       },
       {
         text: '娱乐',
