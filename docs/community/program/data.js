@@ -127,6 +127,12 @@ export const NAV_DATA = [
         desc: 'Web浏览器兼容性查询工具',
         link: 'https://caniuse.com/',
       },
+      {
+        title: 'Codrops',
+        icon: '/icons/codrops.png',
+        desc: '最新前端开发技术、资源分享博客',
+        link: 'https://tympanus.net/codrops/',
+      },
     ],
   },
   {
