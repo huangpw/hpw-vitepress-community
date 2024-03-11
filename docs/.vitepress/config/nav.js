@@ -19,8 +19,8 @@ export default [
       },
       {
         text: '办公',
-        link: '/frontend/angular/',
-        activeMatch: '/frontend/angular/',
+        link: '/community/office/',
+        activeMatch: '/community/office/',
       },
       {
         text: '设计',

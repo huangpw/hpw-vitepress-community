@@ -26,6 +26,24 @@ export const NAV_DATA = [
         desc: '实现图片的无损放大，支持最大16倍放大',
         link: 'https://bigjpg.com/',
       },
+      {
+        title: 'TinyPNG',
+        icon: '/design/tinypng.png',
+        desc: '几乎无损的免费图片压缩网站',
+        link: 'https://tinypng.com/',
+      },
+      {
+        title: 'Remove',
+        icon: '/design/remove.svg',
+        desc: '上传一张图片以消除背景',
+        link: 'https://www.remove.bg/zh/upload',
+      },
+      {
+        title: '在线PS（在线P图）',
+        icon: '/design/photopea.png',
+        desc: '一款用浏览器就能打开使用的图片编辑工具，无需安装、完全免费使用',
+        link: 'https://www.photopea.com/',
+      },
     ],
   },
   {
@@ -283,6 +301,18 @@ export const NAV_DATA = [
         desc: '1万8千多张无版权图片',
         link: 'https://www.goodfreephotos.com/',
       },
+      {
+        title: 'Hippopx',
+        icon: '/design/hippopx.png',
+        desc: 'CC0许可证下的免费库存照片',
+        link: 'https://www.hippopx.com/',
+      },
+      {
+        title: 'Pexels',
+        icon: '/design/pexels.png',
+        desc: '免费4k/8k图片，所有图片免费下载',
+        link: 'https://www.pexels.com/zh-cn/',
+      },
     ],
   },
   {
@@ -351,6 +381,12 @@ export const NAV_DATA = [
         icon: '/design/talkingwiththepros.png',
         desc: 'talking with the pros是一个采访全球创意人的网站',
         link: 'https://www.talkingwiththepros.com/index.php',
+      },
+      {
+        title: 'PS自学网',
+        icon: '/design/missyuan.png',
+        desc: '设计综合教程',
+        link: 'http://www.missyuan.net/',
       },
     ],
   },
